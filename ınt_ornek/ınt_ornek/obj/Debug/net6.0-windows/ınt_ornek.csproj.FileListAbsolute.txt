@@ -1,0 +1,17 @@
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\bin\Debug\net6.0-windows\ınt_ornek.exe
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\bin\Debug\net6.0-windows\ınt_ornek.deps.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\bin\Debug\net6.0-windows\ınt_ornek.runtimeconfig.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\bin\Debug\net6.0-windows\ınt_ornek.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\bin\Debug\net6.0-windows\ınt_ornek.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.csproj.AssemblyReference.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.Form1.resources
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.csproj.GenerateResource.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.AssemblyInfoInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.AssemblyInfo.cs
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.csproj.CoreCompileInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\refint\ınt_ornek.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ınt_ornek.genruntimeconfig.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\ınt_ornek\ınt_ornek\obj\Debug\net6.0-windows\ref\ınt_ornek.dll
